@@ -54,28 +54,6 @@ const faqData = [
     answer:
       "You can get help by opening an issue on the GitHub repository or by asking in the community.",
   },
-  {
-    id: "faq-9",
-    question: "How do I contact the maintainers?",
-    answer:
-      "You can contact the maintainers by opening an issue on the GitHub repository.",
-  },
-  {
-    id: "faq-10",
-    question: "How do I support this project?",
-    answer:
-      "You can support this project by starring the repository or by donating.",
-  },
-  {
-    id: "faq-11",
-    question: "How do I stay updated?",
-    answer: "You can stay updated by following the repository on GitHub.",
-  },
-  {
-    id: "faq-12",
-    question: "How do I follow the project on social media?",
-    answer: "You can follow the project on Twitter, Facebook, and LinkedIn.",
-  },
 ];
 
 const FAQ = () => {

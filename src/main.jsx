@@ -8,7 +8,7 @@ import ThemeProvider from "./Provider/ThemeProvider.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <ThemeProvider>
-      <Router>
+      <Router basename="/Admin_dashboard/">
         <App />
       </Router>
     </ThemeProvider>
